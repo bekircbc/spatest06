@@ -6,6 +6,8 @@ body {
   .App {
     .title {
       display: flex;
+      justify-content: center;
+      align-items: center;
       gap: 20px;
       img {
         width: 100px;
